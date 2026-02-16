@@ -1,0 +1,11 @@
+[
+  {
+    "id": "parakeet-tdt-0.6b-v3-npu",
+    "displayName": "Parakeet TDT 0.6B V3 (NPU)",
+    "modelName": "files-1-2.nexa",
+    "type": "asr",
+    "versionCode": 1,
+    "baseUrl": "https://nexa-model-hub-bucket.s3.us-west-1.amazonaws.com/public/nexa_sdk/huggingface-models/parakeet-tdt-0.6b-v3-npu-mobile/",
+    "modelUrl": "files-1-2.nexa"
+  }
+]

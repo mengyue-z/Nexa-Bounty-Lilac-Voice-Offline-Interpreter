@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Lilac Voice</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_recording">Recording...</string>
+    <string name="status_processing">Processing...</string>
+    <string name="status_model_ready">Model Ready</string>
+    <string name="tap_to_record">Tap to start recording</string>
+    <string name="tap_to_stop">Tap to stop</string>
+    <string name="clear_history">Clear History</string>
+    <string name="audio_input">Audio Input</string>
+    <string name="transcription">Transcription</string>
+    <string name="loading_model">Loading ASR Model...</string>
+    <string name="model_loaded">Model Loaded</string>
+    <string name="model_load_failed">Failed to load model</string>
+    <string name="recording_started">Recording started</string>
+    <string name="recording_stopped">Recording stopped</string>
+    <string name="permission_denied">Audio permission denied</string>
+    <string name="download_model">Download Model</string>
+    <string name="load_model">Load Model</string>
+    <string name="model_not_selected">No model selected</string>
+    <string name="translate_to">Translate to:</string>
+    <string name="enable_translation">Enable</string>
+    <string name="downloading_translation_model">Downloading translation model...</string>
+    <string name="translation_ready">Translation ready</string>
+    <string name="translation_error">Translation error</string>
+    <string name="enable_interpretation">Simultaneous Interpretation:</string>
+    <string name="speak_aloud">Speak Aloud</string>
+    <string name="tts_initializing">Initializing speech engine...</string>
+    <string name="tts_ready">Speech ready</string>
+    <string name="tts_error">Speech engine error</string>
+    <string name="headphone_recommendation">🎧 For best results, use headphones to prevent audio feedback</string>
+    <string name="close">Close</string>
+    <string name="status">Status</string>
+    <string name="select_model">Select Model</string>
+    <string name="toggle_original_text">Toggle Original Text</string>
+    <string name="time_format">Time: %1$s</string>
+    <string name="time_default">Time: 00:00</string>
+    <string name="latency_format">Latency: %1$s</string>
+    <string name="latency_default">Latency: -ms</string>
+    <string name="swap_languages">Swap Languages</string>
+    <string name="start_in_selected_language">Start in selected language...</string>
+    <string name="translation_will_appear_here">Translation will appear here...</string>
+    <string name="downloading">Downloading...</string>
+    <string name="status_bar_time">9:30</string>
+    <string name="model_name_default">Model Name</string>
+
+    <!-- Language names for target language (translation) -->
+    <string-array name="language_names">
+        <item>None (Original)</item>
+        <item>English</item>
+        <item>Spanish (Español)</item>
+        <item>French (Français)</item>
+        <item>German (Deutsch)</item>
+        <item>Italian (Italiano)</item>
+        <item>Portuguese (Português)</item>
+        <item>Chinese Simplified (中文)</item>
+        <item>Japanese (日本語)</item>
+        <item>Korean (한국어)</item>
+        <item>Arabic (العربية)</item>
+        <item>Russian (Русский)</item>
+        <item>Hindi (हिन्दी)</item>
+    </string-array>
+    
+    <!-- Source language names (ASR supported languages that overlap with translation languages) -->
+    <string-array name="source_language_names">
+        <item>English</item>
+        <item>Spanish (Español)</item>
+        <item>French (Français)</item>
+        <item>German (Deutsch)</item>
+        <item>Italian (Italiano)</item>
+        <item>Portuguese (Português)</item>
+        <item>Russian (Русский)</item>
+    </string-array>
+</resources>
