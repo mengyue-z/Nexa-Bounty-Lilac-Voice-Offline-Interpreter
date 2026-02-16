@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Using teal_dark (#7a5a97) for high contrast on white background -->
+    <path
+        android:strokeColor="@color/teal_dark"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M3,6h18 M8,6V4c0,-1 1,-2 2,-2h4c1,0 2,1 2,2v2 M19,6v12c0,1 -1,2 -2,2H7c-1,0 -2,-1 -2,-2V6 M10,11v6 M14,11v6" />
+</vector>

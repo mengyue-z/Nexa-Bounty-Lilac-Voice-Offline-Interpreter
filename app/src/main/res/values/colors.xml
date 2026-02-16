@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Kuromi Theme Design System -->
+    <color name="app_bg">#F6F7F9</color>
+    <color name="brand_primary">#8b6ba8</color> <!-- Main Purple -->
+    <color name="brand_light">#c8aad8</color> <!-- Swap Button Purple -->
+    <color name="brand_accent">#FCFCFC</color>
+
+    <color name="bg_normal">#F6F7F9</color>
+    <color name="font_black">#1F1F1F</color>
+    <color name="recording_red">#FFD93D</color> <!-- Error/Star Yellow -->
+    <color name="stop_gray">#444444</color>
+    <color name="accent_blue">#a78cc8</color>
+    
+    <!-- Purple Theme Colors -->
+    <color name="teal_primary">#8b6ba8</color>
+    <color name="teal_dark">#7a5a97</color> <!-- Darker Purple for Info Bar -->
+    <color name="teal_light">#c8aad8</color>
+    <color name="teal_bg">#8b6ba8</color>
+    <color name="teal_text">#FCFCFC</color>
+    <color name="teal_text_secondary">#E7E7E7</color>
+    
+    <!-- Language Swap Button -->
+    <color name="swap_button_bg">#c8aad8</color>
+    
+    <!-- Recording Button Colors -->
+    <color name="mic_button_idle">#8b6ba8</color>
+    <color name="mic_button_recording">#7a5a97</color>
+    
+    <!-- Status Colors -->
+    <color name="status_green">#FFB8D8</color> <!-- Kuromi Pink -->
+    <color name="status_dot_green">#FFB8D8</color> <!-- Pink Dot -->
+    <color name="status_dot_orange">#FFD93D</color> <!-- Star Yellow -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1F1F1F</color>
+    <color name="text_secondary">#888888</color>
+    <color name="text_hint">#C8C8C8</color>
+    <color name="text_white">#FCFCFC</color>
+    <color name="text_off_white">#E7E7E7</color>
+    
+    <!-- Waveform Colors -->
+    <color name="waveform_orange">#FFD93D</color> <!-- Star Yellow Waveform -->
+    <color name="mic_green">#FFB8D8</color> <!-- Kuromi Pink Mic Fill -->
+    
+    <!-- Pulse Animation -->
+    <color name="pulse_circle">#E8D4F0</color> <!-- Lavender Pulse -->
+    <color name="waveform_bg">#14F6F7F9</color>
+    <color name="camera_cutout">#2E2E2E</color>
+    <color name="border_light">#14141414</color>
+    <color name="border_white">#38F6F7F9</color>
+    
+    <!-- Time and Latency Colors -->
+    <color name="kuromi_label_text">#E8D4F0</color>
+    <color name="kuromi_value_text">#FFFFFF</color>
+    
+    <!-- Language Swap Arrow Color -->
+    <color name="swap_arrow_color">#FFD93D</color>
+    
+    <!-- Navigation Bar Background -->
+    <color name="nav_bar_bg">#6b5080</color>
+    
+    <!-- Logo Colors -->
+    <color name="lavender">#E8D4F0</color>
+    <color name="brand_dark">#7a5a97</color>
+    <color name="kuromi_pink">#FFB8D8</color>
+    <color name="star_yellow">#FFD93D</color>
+    <color name="bg_beige">#E9E2D6</color>
+</resources>

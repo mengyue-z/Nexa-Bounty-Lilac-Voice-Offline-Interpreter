@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer circle (brand primary) - r=40 scaled to 108dp viewport (r=36 in 108dp) -->
+    <path
+        android:fillColor="@color/brand_primary"
+        android:pathData="M54,18 A36,36 0 1,1 54,90 A36,36 0 1,1 54,18 Z" />
+    
+    <!-- Middle circle (lavender with opacity) - r=35 scaled (r=31.5 in 108dp) -->
+    <path
+        android:fillColor="@color/lavender"
+        android:fillAlpha="0.3"
+        android:pathData="M54,22.5 A31.5,31.5 0 1,1 54,85.5 A31.5,31.5 0 1,1 54,22.5 Z" />
+    
+    <!-- Inner circle (brand dark) - r=28 scaled (r=25.2 in 108dp) -->
+    <path
+        android:fillColor="@color/brand_dark"
+        android:pathData="M54,28.8 A25.2,25.2 0 1,1 54,79.2 A25.2,25.2 0 1,1 54,28.8 Z" />
+    
+    <!-- Microphone body (kuromi pink) - rect x=50.4 y=45 width=7.2 height=10.8 rx=3.6 -->
+    <path
+        android:fillColor="@color/kuromi_pink"
+        android:pathData="M50.4,48.6 Q50.4,45 54,45 Q57.6,45 57.6,48.6 L57.6,55.8 Q57.6,57.6 54,57.6 Q50.4,57.6 50.4,55.8 Z" />
+    
+    <!-- Microphone top curve (kuromi pink) - path M52 60 Q52 66 60 66 Q68 66 68 60 -->
+    <path
+        android:pathData="M46.8,54 Q46.8,59.4 54,59.4 Q61.2,59.4 61.2,54"
+        android:strokeColor="@color/kuromi_pink"
+        android:strokeWidth="2.25"
+        android:fillColor="@android:color/transparent" />
+    
+    <!-- Microphone stand (kuromi pink) - line from (54,59.4) to (54,64.8) -->
+    <path
+        android:pathData="M54,59.4 L54,64.8"
+        android:strokeColor="@color/kuromi_pink"
+        android:strokeWidth="2.25" />
+    
+    <!-- Microphone base (kuromi pink) - line from (48.6,64.8) to (59.4,64.8) -->
+    <path
+        android:pathData="M48.6,64.8 L59.4,64.8"
+        android:strokeColor="@color/kuromi_pink"
+        android:strokeWidth="2.25" />
+    
+    <!-- Star decorations (star yellow) - circles at (54,27), (27,54), (81,54), (54,81) with r=2.7 -->
+    <path
+        android:fillColor="@color/star_yellow"
+        android:pathData="M54,24.3 A2.7,2.7 0 1,1 54,29.7 A2.7,2.7 0 1,1 54,24.3 Z" />
+    <path
+        android:fillColor="@color/star_yellow"
+        android:pathData="M24.3,54 A2.7,2.7 0 1,1 29.7,54 A2.7,2.7 0 1,1 24.3,54 Z" />
+    <path
+        android:fillColor="@color/star_yellow"
+        android:pathData="M78.3,54 A2.7,2.7 0 1,1 83.7,54 A2.7,2.7 0 1,1 78.3,54 Z" />
+    <path
+        android:fillColor="@color/star_yellow"
+        android:pathData="M54,78.3 A2.7,2.7 0 1,1 54,83.7 A2.7,2.7 0 1,1 54,78.3 Z" />
+</vector>
