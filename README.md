@@ -4,7 +4,7 @@
 
 Lilac Voice lets you attend a lecture, conversation, tour or event in a foreign language and hear it live in your own instantly and privately, so you never miss the moment or need to worry about Internet connection or expensive roaming data usage. 
 
-[![Lilac Voice Demo](demo-thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch Demo](https://youtube.com/shorts/ekDY8SjJfUM)
 
 
 [Download APK](https://github.com/mengyue-z/-Nexa-Bounty-Lilac-Voice-Offline-Interpreter/releases/tag/v1.0.0)
